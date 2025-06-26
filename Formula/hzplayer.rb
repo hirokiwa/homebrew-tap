@@ -2,7 +2,7 @@ class Hzplayer < Formula
   desc "Plays infinite sine tone (default 40Hz) for focus or relaxation"
   homepage "https://github.com/hirokiwa/hzplayer"
   url "https://github.com/hirokiwa/hzplayer/releases/download/v0.1.0/hzplayer-0.1.0.tar.gz"
-  sha256 "608ac5240129f8947cae0bf8852ac79e3ac7826d596a40d9c3d26a10d7d41995"
+  sha256 "cd88045c77bd70cb756d1ca2b060fc0d90b0f92d56b823fc17ed06b08ba5fff1"
   license "MIT"
 
   def install
