@@ -6,7 +6,7 @@ class Hzplayer < Formula
   license "MIT"
 
   def install
-    bin.install "bin/hzplayer"
+    bin.install "hzplayer-bin/hzplayer"
   end
 
   def caveats
